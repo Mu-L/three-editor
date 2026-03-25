@@ -1,5 +1,7 @@
 # 🍃数字孪生 - 低代码 - 组态编辑器🍁 - <img src="https://visitor-badge.laobi.icu/badge?page_id=three_editor" >
 
+- 🍏新一代更强大编辑器地址 https://z2586300277.github.io/threejs-editor/#/editor
+
 - 百度搜索 three 编辑器 、three.js 编辑器、 three js 编辑器关键字，第一个就是，点星⭐。
 
 - 国内直连高速下载源码 https://pan.quark.cn/s/4fa387b067fb
