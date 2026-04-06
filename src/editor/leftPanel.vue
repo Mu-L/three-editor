@@ -6,6 +6,7 @@
                     <el-button :class="active == k ? 'active' : 'btn'" link :icon="i.icon" :title="i.title" />
                     <span :style="active == k ? 'color:rgb(182, 211, 244);font-weight:bold' : ''">{{ i.title }}</span>
                 </div>
+                <el-link  href="https://z2586300277.github.io/3d-file-server/link.html" target="_blank">更多资源</el-link>
             </div>
             <component :emitEditor="emitEditor" :is="data[active].component" />
         </div>
